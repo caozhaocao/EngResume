@@ -10,12 +10,12 @@ Geographic information system (GIS)
 # Self-Assessment #
 
 1.Familiar with.Net platform, and proficient in MVC and WCF framework;      
-2.Focus on background development, write some HTML, JS language and front-end design;     
-3.Can use design patterns, the cycle reconstruction code, have the independent open ability, can apply Git and SVN code hosting tools;      
+2.Focused on background development, wrote some HTML, JS language and front-end design;     
+3.Can use design patterns, the cycle reconstruction code, had the independent open ability, can apply Git and SVN code hosting tools;   
 4.Familiar with the development and application of Sql-Server, as well as the application of Oracle;      
 5.Can write simply Java language, and build partial Hadoop system structure;      
 6.Has the foundation in data structure and algorithm, familiar with UML and Axure;      
-7.Keen on exploring technologies, love to make things different, share and communication, and has slight obsession.     
+7.Keening on exploring technologies, Loving to make things different, Sharing and communication, and has slight obsession.     
 
 
 # Work Experience #
@@ -69,8 +69,8 @@ Responsibility:
 Time：2015.3 — 2015.7      
 Language/ Framework：C#/WinForm/Web       
 Description: the system included two modules: morning meeting KPI task plan and backstage management system of mobile phone information 
-Morning meeting mainly included the plan and mission of the today and KPI completion condition of yesterday;    
-The background management system of mobile phone information provided complete data for the marketing department and product department.
+1)Morning meeting mainly included the plan and mission of the today and KPI completion condition of yesterday;    
+2)The background management system of mobile phone information provided complete data for the marketing department and product department.    
 Responsibility:   
 1)Responsible for the development and testing of the background management system module of the mobile phone information, assisting colleagues to improve the functions;   
 2)MVC three layer framework mainly involved the Model layer, had the basic operation like addition, modification and deletion in the database;     
