@@ -11,7 +11,7 @@ Geographic information system (GIS)
 
 1.Familiar with.Net platform, and proficient in MVC and WCF framework;      
 2.Focused on background development, wrote some HTML, JS language and front-end design;     
-3.Can use design patterns, the cycle reconstruction code, had the independent open ability, can apply Git and SVN code hosting tools;   
+3.Can use design patterns, the cycle reconstruction code, had the independent open ability, can apply Git and SVN code hosting tools;     
 4.Familiar with the development and application of Sql-Server, as well as the application of Oracle;      
 5.Can write simply Java language, and build partial Hadoop system structure;      
 6.Has the foundation in data structure and algorithm, familiar with UML and Axure;      
