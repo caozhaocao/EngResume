@@ -20,14 +20,15 @@ Geographic information system (GIS)
 
 # Work Experience #
 
-2016.7 — NOW   Isoftstone Technology Co., Ltd   
+2016.7 — NOW   Isoftstone Technology Co., Ltd
+.Net Engineer   
 Technical Manager
 .Net、Java development
 The IT service (system / data / maintenance) | nature of the enterprise: the listed company | scale: more than 10 thousand people 。 
 Department: HUAWEI GTS implementation Department    
 Projects: T-Systems KPI, communication model calibration, multi band algorithm    
 
-2014.3 — 2016.7   Fuzhikang Lab (Foxconn)      
+2014.3 — 2016.7   Fuzhikang Lab (Foxconn)    
 .Net Engineer       
 Production enterprise | nature of the enterprise: the listed company | scale: more than one million people      
 Department: Laboratory research and development department    
