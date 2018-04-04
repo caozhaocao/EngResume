@@ -23,7 +23,7 @@ Geographic information system (GIS)
 2016.7 — NOW   Isoftstone Technology Co., Ltd     
 Technical Manager  
 .Net、Java development  
-The IT service (system / data / maintenance) | nature of the enterprise: the listed company | scale: more than 10 thousand people     
+The IT service | nature of the enterprise: the listed company | scale: more than 10 thousand people  
 Department: HUAWEI GTS implementation Department    
 Projects: T-Systems KPI, communication model calibration, multi band algorithm    
 
