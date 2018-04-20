@@ -37,7 +37,7 @@ Projects: E-commerce information management system, mobile phone price performan
 
 ### 1. Communication model calibration    
 Time：2016.8 — 2016.9    
-Language/ Framework：C#/WinForm    
+Language/ Framework：C#/Java  
 Description: Added a peripheral site calibration model in the applications on the CBB platform, could have a random switching options with original neighboring calibration model.      
 1)The original calibration model could not accurately reflect the data, so add the peripheral site calibration model;    
 2)Frontline staff and testers coild choose different calibration models to obtain accurate data based on different scenarios.          
